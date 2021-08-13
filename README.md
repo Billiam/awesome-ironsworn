@@ -41,6 +41,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Bloodsworn](http://www.atlas-rpg.com/bloodsworn/) - A tabletop roleplaying game in which you play the role of a vampire
 * [FurSworn](https://notofthisworld.itch.io/fursworn) - Anthropomorphic animal supplement
 * [Ironcrunch](https://www.patreon.com/SamuelRondon/posts?filters%5Btag%5D=Ironcrunch) - A crunchy Ironsworn supplement
+* [Ironsworn: Badlands](https://kstetson.itch.io/ironsworn-badlands) - Western setting supplement
 * [Silently Sworn](https://silentlysworn.wordpress.com/) - A cosmic horror supplement
 
 ## Projects without URLs
