@@ -21,6 +21,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 
 ## Tools
 
+* [Asset Workbench](https://effortlessmountain.github.io/ironsworn-asset-workbench/) - Tool for creating custom assets 
 * [The Augur](https://the-augur.itch.io/theaugur) - A virtual tabletop for solo RPGs, based on Ironsworn
 * [Ironsworn Campaign Manager](https://nboughton.uk/apps/ironsworn-campaign/) - A lightweight app for supporting solo Ironsworn games
 * [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
@@ -31,8 +32,9 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 
 ## Resources
 
-* [Tarot-themed character sheet by GPejeau](https://twitter.com/GPejeau/status/1261356515409014785) Tarot-themed character sheet for Ironsworn
-* [Traveler's Ironsworn](https://www.drivethrurpg.com/product/301866/Travelers-Ironsworn-Playkit) Compact move, oracle, worksheets and character sheets for Ironsworn
+* [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and mores
+* [Tarot-themed character sheet by GPejeau](https://twitter.com/GPejeau/status/1261356515409014785) - Tarot-themed character sheet for Ironsworn
+* [Traveler's Ironsworn](https://www.drivethrurpg.com/product/301866/Travelers-Ironsworn-Playkit) - Compact move, oracle, worksheets and character sheets for Ironsworn
 
 ## Hacks and homebrew
 
