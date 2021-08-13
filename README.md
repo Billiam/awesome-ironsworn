@@ -13,6 +13,12 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Discord](https://discord.gg/8bRuZwK) - Official discord server for Ironsworn
 * [Reddit](https://www.reddit.com/r/Ironsworn/) - Ironsworn subreddit
 
+## Translations
+
+### Ironsworn
+
+* [Spanish by Samuel Rondón](https://www.patreon.com/posts/ironsworn-in-34784503) - Ironsworn play materials in Spanish
+
 ## Tools
 
 * [The Augur](https://the-augur.itch.io/theaugur) - A virtual tabletop for solo RPGs, based on Ironsworn
@@ -20,7 +26,13 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
 * [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
 * [Ironsworn for Foundry VTT](https://github.com/ben/foundry-ironsworn) - Ironsworn module for Foundry Virtual Tabletop
+* [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
 * [Starforged for Foundry VTT](https://github.com/DiceT/starforged) - Starforged module for Foundry Virtual Tabletop
+
+## Resources
+
+* [Tarot-themed character sheet by GPejeau](https://twitter.com/GPejeau/status/1261356515409014785) Tarot-themed character sheet for Ironsworn
+* [Traveler's Ironsworn](https://www.drivethrurpg.com/product/301866/Travelers-Ironsworn-Playkit) Compact move, oracle, worksheets and character sheets for Ironsworn
 
 ## Hacks and homebrew
 
