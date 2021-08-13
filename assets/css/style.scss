@@ -3,10 +3,17 @@
 
 @import "{{ site.theme }}";
 
+body {
+  color: #d5e2f0;
+}
 a {
   color: #58b8bd;
 
   &:hover {
     color: #69e7ee;
   }
+}
+#title,
+#header {
+  display: none;
 }

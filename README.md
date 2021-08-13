@@ -34,3 +34,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
   * Eldersworn - A Cthulhu Mythos hack
   * Dungeonsworn - Ironsworn with an Old School Renaissance flavor
   * Witchstorm - Fantasy supplement that brings a framework for a more casual casting of magi
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
