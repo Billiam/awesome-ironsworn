@@ -1,12 +1,5 @@
----
-name: New awesome thing
-about: Suggest a new link for this list
-title: '[new-thing]'
-labels: new_thing
----
-
-* Name: 
-* URL:
+* Project name: 
+* Project URL:
   
 ## Why it's awesome
 
