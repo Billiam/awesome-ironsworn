@@ -31,6 +31,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
 * [Ironsworn for Foundry VTT](https://github.com/ben/foundry-ironsworn) - Ironsworn module for Foundry Virtual Tabletop
 * [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
+* [IronWriter](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
 * [Starforged for Foundry VTT](https://github.com/DiceT/starforged) - Starforged module for Foundry Virtual Tabletop
 * [TheOracle](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
 
@@ -38,6 +39,8 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 
 * [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System) - 
   Character building card sets for Ironsworn
+* [DataForged](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+* [DataSworn](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 * [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
 * [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1?) Adventure starters for Ironsworn
 * [Tarot-themed character sheet by GPejeau](https://twitter.com/GPejeau/status/1261356515409014785) - Tarot-themed character sheet for Ironsworn
