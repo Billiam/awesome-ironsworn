@@ -17,6 +17,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 
 ### Ironsworn
 
+* [French by Thomas Pereira](http://ironsworn.pbta.fr/) - Ironsworn rulebook and references in French
 * [Spanish by Samuel Rondón](https://www.patreon.com/posts/ironsworn-in-34784503) - Ironsworn play materials in Spanish
 
 ## Tools
@@ -32,7 +33,10 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 
 ## Resources
 
-* [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and mores
+* [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System) - 
+  Character building card sets for Ironsworn
+* [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
+* [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1?) Adventure starters for Ironsworn
 * [Tarot-themed character sheet by GPejeau](https://twitter.com/GPejeau/status/1261356515409014785) - Tarot-themed character sheet for Ironsworn
 * [Traveler's Ironsworn](https://www.drivethrurpg.com/product/301866/Travelers-Ironsworn-Playkit) - Compact move, oracle, worksheets and character sheets for Ironsworn
 
