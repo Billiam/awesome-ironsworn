@@ -45,8 +45,11 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 
 ## Hacks and homebrew
 
+* [Atomsworn](https://www.drivethrurpg.com/product/285005/Atomsworn-A-Post-Nuclear-Primer-Powered-by-Ironsworn-SRD) - 
+  Modern/sci-fi post-apocalyptic setting primer for Ironsworn
 * [Bloodsworn](http://www.atlas-rpg.com/bloodsworn/) - A tabletop roleplaying game in which you play the role of a vampire
 * [FurSworn](https://notofthisworld.itch.io/fursworn) - Anthropomorphic animal supplement
+* [Iron in the Blood](https://www.drivethrurpg.com/product/309460/Iron-in-the-Blood) - Supplement in which in which you play vampires struggling through the epochs of time
 * [Ironcrunch](https://www.patreon.com/SamuelRondon/posts?filters%5Btag%5D=Ironcrunch) - A crunchy Ironsworn supplement
 * [Ironsworn Flavor Packs](http://www.playeveryrole.com/?p=592) - Japanese, South American and Norse setting card packs
 * [Ironsworn: Badlands](https://kstetson.itch.io/ironsworn-badlands) - Western setting supplement
