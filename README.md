@@ -6,7 +6,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 
 * [Ironsworn](https://www.ironswornrpg.com/) - A tabletop RPG of perilous quests
 * [Ironsworn: Delve](https://shawn-tomkin.itch.io/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying 
-  game takes your quests to the deepest, darkest reaches of the Ironlands
+  game taking your quests to the deepest, darkest reaches of the Ironlands
 * [Ironsworn: Starforged](https://www.kickstarter.com/projects/shawntomkin/ironsworn-starforged) -  The sci-fi evolution 
   of the award-winning tabletop roleplaying game
 
@@ -32,6 +32,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Ironsworn for Foundry VTT](https://github.com/ben/foundry-ironsworn) - Ironsworn module for Foundry Virtual Tabletop
 * [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
 * [Starforged for Foundry VTT](https://github.com/DiceT/starforged) - Starforged module for Foundry Virtual Tabletop
+* [TheOracle](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
 
 ## Resources
 
