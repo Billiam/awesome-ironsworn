@@ -5,8 +5,10 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 ## Official Content
 
 * [Ironsworn](https://www.ironswornrpg.com/) - A tabletop RPG of perilous quests
-* [Ironsworn: Delve](https://shawn-tomkin.itch.io/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying game takes your quests to the deepest, darkest reaches of the Ironlands
-* [Ironsworn: Starforged](https://www.kickstarter.com/projects/shawntomkin/ironsworn-starforged) -  The sci-fi evolution of the award-winning tabletop roleplaying game
+* [Ironsworn: Delve](https://shawn-tomkin.itch.io/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying 
+  game takes your quests to the deepest, darkest reaches of the Ironlands
+* [Ironsworn: Starforged](https://www.kickstarter.com/projects/shawntomkin/ironsworn-starforged) -  The sci-fi evolution 
+  of the award-winning tabletop roleplaying game
 
 ## Community
 
@@ -38,7 +40,8 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
 * [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1?) Adventure starters for Ironsworn
 * [Tarot-themed character sheet by GPejeau](https://twitter.com/GPejeau/status/1261356515409014785) - Tarot-themed character sheet for Ironsworn
-* [Traveler's Ironsworn](https://www.drivethrurpg.com/product/301866/Travelers-Ironsworn-Playkit) - Compact move, oracle, worksheets and character sheets for Ironsworn
+* [Traveler's Ironsworn](https://www.drivethrurpg.com/product/301866/Travelers-Ironsworn-Playkit) - Compact move, oracle, 
+  worksheets and character sheets for Ironsworn
 
 ## Hacks and homebrew
 
@@ -53,7 +56,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * From the [Ironsworn Discord](https://discord.gg/8bRuZwK)
   * Eldersworn - A Cthulhu Mythos hack
   * Dungeonsworn - Ironsworn with an Old School Renaissance flavor
-  * Witchstorm - Fantasy supplement that brings a framework for a more casual casting of magi
+  * Witchstorm - Fantasy supplement that brings a framework for a more casual casting of magic
 
 ## Contribute
 
