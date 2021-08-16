@@ -51,19 +51,31 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Atomsworn](https://www.drivethrurpg.com/product/285005/Atomsworn-A-Post-Nuclear-Primer-Powered-by-Ironsworn-SRD) - Modern/sci-fi post-apocalyptic setting primer for Ironsworn
 * [Bloodsworn](http://www.atlas-rpg.com/bloodsworn/) - A tabletop roleplaying game in which you play the role of a vampire
 * [Delves & Denizens](https://delves-n-denizens.tumblr.com/) - Ironsworn addon focused on classical fantasy
+* [DungeonSworn](https://drive.google.com/drive/folders/1-2HeceIG9VnkPdOVaJKWcHq3zfA78X4l) - A dungeon delving adventure supplement
 * [FurSworn](https://notofthisworld.itch.io/fursworn) - Anthropomorphic animal supplement
 * [HyperCity](https://notrueindian.itch.io/hypercity) - a cyberpunk hack of Ironsworn
+* [Investigation Hack by rsek](https://drive.google.com/drive/folders/1_tKqEn-iKDFyfzrNYgvVlzZuHOu1pUmc) - An investigation hack for Ironsworn
 * [Iron in the Blood](https://www.drivethrurpg.com/product/309460/Iron-in-the-Blood) - Supplement in which in which you play vampires struggling through the epochs of time
 * [Ironcrunch](https://www.patreon.com/SamuelRondon/posts?filters%5Btag%5D=Ironcrunch) - A crunchy Ironsworn supplement
+* [Ironmons](https://docs.google.com/document/d/1MPLxI_RdVdhqvvvAbjXAt1PnKJ11CMZg4V6NTT7BNx0) - An Ironsworn Pokemon hack
 * [Ironsworn Flavor Packs](http://www.playeveryrole.com/?p=592) - Japanese, South American and Norse setting card packs
+* [Ironsworn Winterhall](https://drive.google.com/file/d/160Ki8oVab0yZdlPUwHWROKIe8ILaTzNd/view) - Put down roots in the Ironlands
 * [Ironsworn: Badlands](https://kstetson.itch.io/ironsworn-badlands) - Western setting supplement
+* [Kybersworn](https://drive.google.com/drive/folders/1bnhf7ha5IOuDgiCYl2JOyzyVDum2qPDx) - A Star Wars-themed supplement for Ironsworn
+* [Modern Domains for Ironsworn by Stephanie M](https://drive.google.com/file/d/13KBv58Pq836vWLwDOK9qGYcCK8asK-O8/view) - Modern domain oracles
+* [No Man's Land](https://drive.google.com/file/d/1oxzbAmsXef4SISen0j9WlksnV6XXXIBB/view) - A bleak military Ironsworn hack
+* [Noironsworn](https://drive.google.com/file/d/1O9411BV4jsNNWT5FZZ1MFRCK2jDCjAfd/view) - An investigation supplement
+* [On Hollow Roads](https://drive.google.com/file/d/1-Ye9rHOTPejGRSjk3SKRHKiLpVOCozDJ/view) - An Ironsworn supplement set in a haunted, surrealist American landscape
+* [The Outer Edge](https://drive.google.com/drive/folders/1oVed10NZgiSniJG2sbXm40-7O59conPU) - A spacefaring supplement for Ironsworn
 * [Silently Sworn](https://silentlysworn.wordpress.com/) - A cosmic horror supplement
+* [Solar Crown Online](https://umbralaeronaut.itch.io/solar-crown-online) - Undertake perilous quests in the world of Solar Crown Online, a wildly-popular MMORPG
+* [Under Contract](https://docs.google.com/document/d/1K1Cr1F1MABw8h-Hm-YL7DH4V9VLmq2Ezn9PEcOsuw-o) - A cyberpunk hack for Ironsworn
+* [Winsome](https://elstiko.itch.io/winsome) - Stripped-down, setting-less hack of Ironsworn
 
 ## Projects without URLs
 
 * From the [Ironsworn Discord](https://discord.gg/8bRuZwK)
   * Eldersworn - A Cthulhu Mythos hack
-  * Dungeonsworn - Ironsworn with an Old School Renaissance flavor
   * Witchstorm - Fantasy supplement that brings a framework for a more casual casting of magic
 
 ## Contribute
