@@ -19,9 +19,9 @@ Ensure your pull request adheres to the following guidelines:
 * Descriptions should be short and meaningful
 * Maintain consistent description formatting. Descriptions begin with a capital letter, are a single sentence long, and
   should not contain a trailing full stop (.)
-* If no dedicated URL is available for the poject, add it to the "Projects without URLs list", under an appropriate
+* If no dedicated URL is available for the project, add it to the "Projects without URLs list", under an appropriate
   parent section (that does have a link).
-* Projects within in a section should be alphabetized by project name
+* Projects in a section should be alphabetized by project name
 * New categories, and improvements to existing categorization are welcome
 
 Thank you for your suggestions!
