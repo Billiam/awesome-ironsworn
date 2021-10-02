@@ -65,6 +65,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Ironsworn Passions](https://docs.google.com/document/d/1ytKHeNLHOIE8JvL3-TUyIu_pDdP2oS69HbwKNxQ4DuA/view) - Character desires and prejudices
 * [Ironsworn Winterhall](https://drive.google.com/file/d/160Ki8oVab0yZdlPUwHWROKIe8ILaTzNd/view) - Put down roots in the Ironlands
 * [Ironsworn: Badlands](https://kstetson.itch.io/ironsworn-badlands) - Western setting supplement
+* [Justice Sworn](https://sandypuggames.itch.io/justice-sworn) -  Ironsworn in a side scrolling beat-em-up setting
 * [Kybersworn](https://drive.google.com/drive/folders/1bnhf7ha5IOuDgiCYl2JOyzyVDum2qPDx) - A Star Wars-themed supplement for Ironsworn
 * [Modern Domains for Ironsworn by Stephanie M](https://drive.google.com/file/d/13KBv58Pq836vWLwDOK9qGYcCK8asK-O8/view) - Modern domain oracles
 * [No Man's Land](https://drive.google.com/file/d/1oxzbAmsXef4SISen0j9WlksnV6XXXIBB/view) - A bleak military Ironsworn hack
