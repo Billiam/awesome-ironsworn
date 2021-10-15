@@ -18,6 +18,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 ### Ironsworn
 
 * [French by Thomas Pereira](http://ironsworn.pbta.fr/) - Ironsworn rulebook and references in French
+* [German from System Matters](https://www.system-matters.de/produkt-kategorie/ironsworn/) - Ironsworn rulebook and assets in German 
 * [Spanish by Samuel Rondón](https://www.patreon.com/posts/ironsworn-in-34784503) - Ironsworn play materials in Spanish
 
 ## Tools
