@@ -33,6 +33,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
 * [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
 * [Ironsworn for Foundry VTT](https://github.com/ben/foundry-ironsworn) - Ironsworn module for Foundry Virtual Tabletop
+* [Ironsworn for Role](https://app.playrole.com/sheet-templates/bbc0c65a-ironsworn-starforged/save) - Ironsworn character sheet for Role
 * [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
 * [isscrolls](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
 * [Starforged for Foundry VTT](https://github.com/DiceT/starforged) - Starforged module for Foundry Virtual Tabletop
