@@ -4,4 +4,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: https://repository-images.githubusercontent.com/395766828/92677edb-65fd-4993-91cc-8773789398fc
+      image: https://repository-images.githubusercontent.com/395766828/92677edb-65fd-4993-91cc-8773789398fc?page=home
