@@ -38,6 +38,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
 * [isscrolls](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
 * [Starforged for Foundry VTT](https://github.com/DiceT/starforged) - Starforged module for Foundry Virtual Tabletop
+* [Starforged Sectors Discord Bot](https://github.com/Ferretsroq/Starforged-Sectors) - Display, create, and explore sectors in Discord
 * [TheOracle](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
 
 ## Resources
