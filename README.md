@@ -82,9 +82,9 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [No Man's Land](https://drive.google.com/file/d/1oxzbAmsXef4SISen0j9WlksnV6XXXIBB/view) - A bleak military Ironsworn hack
 * [Noironsworn](https://drive.google.com/file/d/1O9411BV4jsNNWT5FZZ1MFRCK2jDCjAfd/view) - An investigation supplement
 * [On Hollow Roads](https://drive.google.com/file/d/1-Ye9rHOTPejGRSjk3SKRHKiLpVOCozDJ/view) - An Ironsworn supplement set in a haunted, surrealist American landscape
-* [Pinkysworn](https://www.drivethrurpg.com/product/405015/Pinkysworn) - Ironcampers swear pinky promises in a summercamp-themed abbreviation of the Ironsworn rules
 * [The Orphans of Ragnarökr](https://www.drivethrurpg.com/product/361512) - A post-apocalyptic/Ragnarok Viking setting
 * [The Outer Edge](https://drive.google.com/drive/folders/1oVed10NZgiSniJG2sbXm40-7O59conPU) - A spacefaring supplement for Ironsworn
+* [Pinkysworn](https://www.drivethrurpg.com/product/405015/Pinkysworn) - Ironcampers swear pinky promises in a summercamp-themed abbreviation of the Ironsworn rules
 * [Ringsworn](https://www.dropbox.com/s/72tq31pxzqc7bx0/Ringsworn.pdf?dl=0) - Ironsworn rules grafted onto The One Ring dice mechanics
 * [Silently Sworn](https://silentlysworn.wordpress.com/) - A cosmic horror supplement
 * [Solar Crown Online](https://umbralaeronaut.itch.io/solar-crown-online) - Undertake perilous quests in the world of Solar Crown Online, a wildly-popular MMORPG
