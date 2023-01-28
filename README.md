@@ -47,6 +47,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [DataSworn](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 * [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
 * [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
+* [Starforged Half-Page Worksheets](https://www.reddit.com/r/Ironsworn/comments/xqmo4a/halfpage_sheets_for_starforged/) - Half-page versions of the character, sector, progress, and connection worksheets
 * [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1) - Adventure starters for Ironsworn
 * [Tarot Sworn Sheet](https://assemblyrequisite.itch.io/tarot-sworn-sheet) - Tarot-themed character sheet for Ironsworn
 * [Traveler's Ironsworn](https://www.drivethrurpg.com/product/301866/Travelers-Ironsworn-Playkit) - Compact move, oracle, worksheets and character sheets for Ironsworn
