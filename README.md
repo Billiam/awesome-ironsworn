@@ -109,6 +109,11 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Winsome](https://elstiko.itch.io/winsome) - Stripped-down, setting-less hack of Ironsworn
 * [Your Legends of Iron](https://anarisis.itch.io/patreon-papers-021) - Zelda-themed truths for Ironsworn
 
+## Open Jams
+
+* [Starforged 2022 Jam](https://itch.io/jam/starforged-2022-jam) 
+* [Starforged 2023 Jam](https://itch.io/jam/starforged-2023-jam)
+
 ## Projects without URLs
 
 * From the [Ironsworn Discord](https://discord.gg/8bRuZwK)
