@@ -59,7 +59,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Arcanum](https://www.drivethrurpg.com/product/368750/Arcanum-High-Magic-for-Ironsworn) - High magic for Ironsworn
 * [Atomsworn](https://www.drivethrurpg.com/product/285005/Atomsworn-A-Post-Nuclear-Primer-Powered-by-Ironsworn-SRD) - Modern/sci-fi post-apocalyptic setting primer for Ironsworn
 * [Bladesworn](https://drive.google.com/file/d/1HUyXWTDGdLddZygFyPt-NHAhUVGobwxJ/view?usp=sharing) - A simplified Blades in the Dark ruleset for Ironsworn
-* [Bloodsworn](http://www.atlas-rpg.com/bloodsworn/) - A tabletop roleplaying game in which you play the role of a vampire
+* [Bloodsworn](https://drive.google.com/file/d/104B93Fw6hpN4Cagr6TtyDvsh4VgHk-5F/view) - A tabletop roleplaying game in which you play the role of a vampire
 * [Cybersworn](https://the-homebrewster.itch.io/cybersworn) - Cyberpunk setting for Starforged
 * [Deck of Many Fortunes](https://www.drivethrurpg.com/product/382532) - Tarot deck offering blessings and malisons for Ironsworn and Starforged
 * [Delves & Denizens](https://delves-n-denizens.tumblr.com/) - Ironsworn addon focused on classical fantasy
