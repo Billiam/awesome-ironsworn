@@ -100,6 +100,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Spiritbound](https://mstrocks.itch.io/spiritbound) - A Studio Ghibli hack of Ironsworn
 * [Starforged Oracles for Fantasy Settings](https://www.patreon.com/posts/starforged-for-73094405) - Numerous oracles for fantasy settings in Starforged
 * [Steelforged](https://drive.google.com/drive/folders/1X7P2R-rD_89fMWR8JiYKDk5lm62UPhfL) - High fantasy supplements for Starforged
+* [Stonebound](https://s0randme.itch.io/stonebound) - A stone-age stone and sorcery setting for Ironsworn
 * [Summer Camp Mystery](https://www.drivethrurpg.com/product/404832/Summer-Camp-Mystery) - Family summercamp investigation with simplified rules
 * [Supersworn](https://drive.google.com/drive/folders/1THcUielU0wvcyZAAwUtqDT-J95XlyQvc) - Superhero hack for Starforged
 * [Sworn by Ghostlight](https://yuigaron.itch.io/sworn-by-ghostlight) - Hunt a serial killer in a haunted Victorian era London-like city
