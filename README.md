@@ -118,6 +118,12 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
   * Eldersworn - A Cthulhu Mythos hack
   * Witchstorm - Fantasy supplement that brings a framework for a more casual casting of magic
 
+## Game jams
+
+* [Ironsworn Jam 1](https://itch.io/jam/ironsworn-jam-1/entries)
+* [Starforged 2022 Jam](https://itch.io/jam/starforged-2022-jam/entries) 
+* [Starforged 2023 Jam](https://itch.io/jam/starforged-2023-jam/entries)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
