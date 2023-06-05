@@ -107,7 +107,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Sworn by Ghostlight](https://yuigaron.itch.io/sworn-by-ghostlight) - Hunt a serial killer in a haunted Victorian era London-like city
 * [Threads of Destiny](https://wraithdrof.itch.io/threads-of-destiny) - Create a destiny deck to weave plot threads into your characters story
 * [Under Contract](https://docs.google.com/document/d/1K1Cr1F1MABw8h-Hm-YL7DH4V9VLmq2Ezn9PEcOsuw-o) - A cyberpunk hack for Ironsworn
-* [Vaults & Vows](https://docs.google.com/document/d/1hBwpWN1hXWFUXF_I5nBVpNL4YuCh2q0HS3H40UXJx2U/edit) - Classic fantasy roleplaying supplement
+* [Vaults & Vows](https://ludicpen.itch.io/vaults-and-vows) - Classic fantasy roleplaying supplement
 * [Voidforged](https://kerys.itch.io/voidforged) - A sci-fi horror supplement for Starforged
 * [Winsome](https://elstiko.itch.io/winsome) - Stripped-down, setting-less hack of Ironsworn
 * [Your Legends of Iron](https://anarisis.itch.io/patreon-papers-021) - Zelda-themed truths for Ironsworn
