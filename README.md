@@ -66,6 +66,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Delves & Denizens](https://delves-n-denizens.tumblr.com/) - Ironsworn addon focused on classical fantasy
 * [DungeonSworn](https://drive.google.com/drive/folders/1-2HeceIG9VnkPdOVaJKWcHq3zfA78X4l) - A dungeon delving adventure supplement
 * [Elegy](https://miraclem.itch.io/elegy) - Solo role playing game about being a vampire and surviving the big city nights
+* [Elementsworn](https://satan-bouchuncoin.itch.io/elementsworn) - Readapt Ironsworn to the the _Avatar: The Last Airbender_ setting.
 * [FurSworn](https://notofthisworld.itch.io/fursworn) - Anthropomorphic animal supplement
 * [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna) - Become a police officer assigned to crack unsolved murder cases. Rulebook in Polish.
 * [Herosworn](https://docs.google.com/document/d/1ttFFH8Ul7NlXhWw8vOr39YIx6FHcKuaC_Uueaf6f0B0/view) - Ironsworn for super heroes
