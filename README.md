@@ -6,7 +6,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 
 * [Ironsworn](https://www.ironswornrpg.com/) - A tabletop RPG of perilous quests
 * [Ironsworn: Delve](https://shawn-tomkin.itch.io/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying game taking your quests to the deepest, darkest reaches of the Ironlands
-* [Ironsworn: Starforged](https://www.kickstarter.com/projects/shawntomkin/ironsworn-starforged) -  The sci-fi evolution of the award-winning tabletop roleplaying game
+* [Ironsworn: Starforged](https://www.ironswornrpg.com/product-ironsworn-starforged) -  The sci-fi evolution of the award-winning tabletop roleplaying game
 
 ## Community
 
@@ -30,7 +30,6 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Iron Journal](https://nboughton.uk/apps/ironsworn-campaign/) - Tools and references for running and journaling Ironsworn games
 * [IronWriter](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
 * [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
-* [Ironsworn Campaign Manager](https://nboughton.uk/apps/ironsworn-campaign/) - A lightweight app for supporting solo Ironsworn games
 * [Ironsworn Character Creation Questions](https://www.drivethrurpg.com/product/392486/Ironsworn-Character-Creation-Questions) - Questions to help build NPC relationships
 * [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
 * [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
@@ -55,7 +54,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1) - Adventure starters for Ironsworn
 * [Starforged Half-Page Worksheets](https://drive.google.com/file/d/1WYVxnzkRElXK9ho4W3P8oDaycblYEkck/view) - Half-page versions of the character, sector, progress, and connection worksheets
 * [Starsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/417619/Starsmith-Expanded-Oracles) - Supplemental oracles for Starforged
-* [Tarot Sworn Sheet](https://assemblyrequisite.itch.io/tarot-sworn-sheet) - Tarot-themed character sheet for Ironsworn
+* [Tarot Sworn Sheet](https://nightjargames.itch.io/tarot-sworn-sheet) - Tarot-themed character sheet for Ironsworn
 * [Traveler's Ironsworn](https://www.drivethrurpg.com/product/301866/Travelers-Ironsworn-Playkit) - Compact move, oracle, worksheets and character sheets for Ironsworn
 
 ## Hacks and homebrew
@@ -73,14 +72,14 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [FurSworn](https://notofthisworld.itch.io/fursworn) - Anthropomorphic animal supplement
 * [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna) - Become a police officer assigned to crack unsolved murder cases. Rulebook in Polish.
 * [Herosworn](https://docs.google.com/document/d/1ttFFH8Ul7NlXhWw8vOr39YIx6FHcKuaC_Uueaf6f0B0/view) - Ironsworn for super heroes
-* [HyperCity](https://notrueindian.itch.io/hypercity) - A cyberpunk hack of Ironsworn
+* [HyperCity](https://newmadras.itch.io/hypercity) - A cyberpunk hack of Ironsworn
 * [Investigation Hack by rsek](https://drive.google.com/drive/folders/1_tKqEn-iKDFyfzrNYgvVlzZuHOu1pUmc) - An investigation hack for Ironsworn
 * [Iron Degenerates](https://drive.google.com/file/d/12iPtYAHlUJ_WMJIDqfTqgA2Sm44ayddV/view) - Bringing the Dungeon Degenerates setting to Ironsworn
 * [Iron in the Blood](https://www.drivethrurpg.com/product/309460/Iron-in-the-Blood) - Supplement in which in which you play vampires struggling through the epochs of time
 * [Iron Valley](https://mkirin.itch.io/iron-valley) - A cozy, simplified Ironsworn and Starforged hack focusing on small town life, fulfilling promises, and making the most of each day
-* [Ironcrunch](https://www.patreon.com/LudicPen/posts?filters%5Btag%5D=Ironcrunch) - A crunchy Ironsworn supplement
-* [Ironmons](https://docs.google.com/document/d/1MPLxI_RdVdhqvvvAbjXAt1PnKJ11CMZg4V6NTT7BNx0) - An Ironsworn Pokemon hack
-* [Ironsworn Flavor Packs](http://www.playeveryrole.com/?p=592) - Japanese, South American and Norse setting card packs
+* [Ironcrunch](https://www.patreon.com/posts/ironcrunch-35463893) - A crunchy Ironsworn supplement
+* [Ironmons](https://docs.google.com/document/d/1MPLxI_RdVdhqvvvAbjXAt1PnKJ11CMZg4V6NTT7BNx0/) - An Ironsworn Pokemon hack
+* [Ironsworn Flavor Packs](https://playeveryrole.com/?p=592) - Japanese, South American and Norse setting card packs
 * [Ironsworn Foes & Fights](https://drive.google.com/drive/folders/1tB_Hyw_b1GEtTV5MRugL-YmNP74NfJUp) - An Ironsworn hack adding more mechanical context to fights
 * [Ironsworn Nemesis](https://gceh.itch.io/ironsworn-nemesis) - Generate nemeses when defeated, a hack for Ironsworn and Starforged 
 * [Ironsworn Passions](https://docs.google.com/document/d/1ytKHeNLHOIE8JvL3-TUyIu_pDdP2oS69HbwKNxQ4DuA/view) - Character desires and prejudices
@@ -90,7 +89,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Justice Sworn](https://sandypuggames.itch.io/justice-sworn) -  Ironsworn in a side scrolling beat-em-up setting
 * [Knight Frame](https://seraguith.itch.io/knight-frame) - Add high-speed humanoid mech battles to your Starforged campaign
 * [Kybersworn](https://drive.google.com/drive/folders/1bnhf7ha5IOuDgiCYl2JOyzyVDum2qPDx) - A Star Wars-themed supplement for Ironsworn
-* [Mistsworn](https://docs.google.com/document/d/1dTLl2rLMmJ0MQfs2BOKu_WxEWEJ6gpQQf1jaSyMK-pY) - A City of Mist / Ironsworn hybrid hack
+* [Mistsworn](https://docs.google.com/document/d/1dTLl2rLMmJ0MQfs2BOKu_WxEWEJ6gpQQf1jaSyMK-pY/) - A City of Mist / Ironsworn hybrid hack
 * [Modern Domains for Ironsworn by Stephanie M](https://drive.google.com/file/d/13KBv58Pq836vWLwDOK9qGYcCK8asK-O8/view) - Modern domain oracles
 * [MÖRKSWORN](https://chaoclypse.itch.io/morksworn) - Conversion rules for MÖRK BORG magic, weapons and enemies to Ironsworn
 * [Noironsworn](https://drive.google.com/file/d/1O9411BV4jsNNWT5FZZ1MFRCK2jDCjAfd/view) - An investigation supplement
@@ -112,7 +111,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Supersworn](https://drive.google.com/drive/folders/1THcUielU0wvcyZAAwUtqDT-J95XlyQvc) - Superhero hack for Starforged
 * [Sworn by Ghostlight](https://yuigaron.itch.io/sworn-by-ghostlight) - Hunt a serial killer in a haunted Victorian era London-like city
 * [Threads of Destiny](https://wraithdrof.itch.io/threads-of-destiny) - Create a destiny deck to weave plot threads into your characters story
-* [Under Contract](https://docs.google.com/document/d/1K1Cr1F1MABw8h-Hm-YL7DH4V9VLmq2Ezn9PEcOsuw-o) - A cyberpunk hack for Ironsworn
+* [Under Contract](https://docs.google.com/document/d/1K1Cr1F1MABw8h-Hm-YL7DH4V9VLmq2Ezn9PEcOsuw-o/) - A cyberpunk hack for Ironsworn
 * [Vaults & Vows](https://ludicpen.itch.io/vaults-and-vows) - Classic fantasy roleplaying supplement
 * [Voidforged](https://kerys.itch.io/voidforged) - A sci-fi horror supplement for Starforged
 * [Winsome](https://elstiko.itch.io/winsome) - Stripped-down, setting-less hack of Ironsworn
