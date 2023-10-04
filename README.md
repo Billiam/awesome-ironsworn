@@ -79,7 +79,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Iron Valley](https://mkirin.itch.io/iron-valley) - A cozy, simplified Ironsworn and Starforged hack focusing on small town life, fulfilling promises, and making the most of each day
 * [Ironcrunch](https://www.patreon.com/posts/ironcrunch-35463893) - A crunchy Ironsworn supplement
 * [Ironmons](https://docs.google.com/document/d/1MPLxI_RdVdhqvvvAbjXAt1PnKJ11CMZg4V6NTT7BNx0/) - An Ironsworn Pokemon hack
-* [Ironsworn Flavor Packs](https://playeveryrole.com/?p=592) - Japanese, South American and Norse setting card packs
+* [Ironsworn Flavor Packs](https://www.drivethrurpg.com/product/374949/Ironsmith-Flavor-Packs) - Japanese, South American and Norse setting card packs
 * [Ironsworn Foes & Fights](https://drive.google.com/drive/folders/1tB_Hyw_b1GEtTV5MRugL-YmNP74NfJUp) - An Ironsworn hack adding more mechanical context to fights
 * [Ironsworn Nemesis](https://gceh.itch.io/ironsworn-nemesis) - Generate nemeses when defeated, a hack for Ironsworn and Starforged 
 * [Ironsworn Passions](https://docs.google.com/document/d/1ytKHeNLHOIE8JvL3-TUyIu_pDdP2oS69HbwKNxQ4DuA/view) - Character desires and prejudices
