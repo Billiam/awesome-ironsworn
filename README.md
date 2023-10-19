@@ -30,7 +30,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Iron Journal](https://nboughton.uk/apps/ironsworn-campaign/) - Tools and references for running and journaling Ironsworn games
 * [IronWriter](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
 * [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
-* [Ironsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/ironsmith-expanded-oracles) - A FoundryVTT compendium of the Ironsmith oracles for Ironsworn.
+* [Ironsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/ironsmith-expanded-oracles) - A FoundryVTT compendium of the Ironsmith oracles for Ironsworn
 * [Ironsworn Character Creation Questions](https://www.drivethrurpg.com/product/392486/Ironsworn-Character-Creation-Questions) - Questions to help build NPC relationships
 * [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
 * [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
@@ -40,6 +40,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Ironsworn Numbers Spreadsheet](https://www.dropbox.com/s/m16aazqk3t7ashd/Ironsworn%20-%20Public%20iPad%20v%200-7.numbers?dl=0) - Spreadsheet for Ironsworn solo play
 * [isscrolls](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
 * [Starforged Crew Sheet](https://jaderavens.itch.io/starforged-crew-sheet) - Interactive playkit for group/solo play in Google Sheets
+* [Starforged Custom Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starforged-custom-oracles) - A FoundryVTT compendium of the fan-created oracles for the Ironsworn: Starforged system
 * [Starforged Sectors Discord Bot](https://github.com/Ferretsroq/Starforged-Sectors) - Display, create, and explore sectors in Discord
 * [Starforged Numbers Spreadsheet](https://www.dropbox.com/s/ge40xrazw0c9ng1/Starforged%20Public%20v2.5.numbers?dl=0) - Spreadsheet for Starforged solo play
 * [Starsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starsmith-expanded-oracles) - A FoundryVTT compendium of the Starsmith oracles for the Ironsworn: Starforged system
@@ -70,9 +71,9 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Delves & Denizens](https://delves-n-denizens.tumblr.com/) - Ironsworn addon focused on classical fantasy
 * [DungeonSworn](https://drive.google.com/drive/folders/1-2HeceIG9VnkPdOVaJKWcHq3zfA78X4l) - A dungeon delving adventure supplement
 * [Elegy](https://miraclem.itch.io/elegy) - Solo role playing game about being a vampire and surviving the big city nights
-* [Elementsworn](https://satan-bouchuncoin.itch.io/elementsworn) - Readapt Ironsworn to the the _Avatar: The Last Airbender_ setting.
+* [Elementsworn](https://satan-bouchuncoin.itch.io/elementsworn) - Readapt Ironsworn to the the _Avatar: The Last Airbender_ setting
 * [FurSworn](https://notofthisworld.itch.io/fursworn) - Anthropomorphic animal supplement
-* [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna) - Become a police officer assigned to crack unsolved murder cases. Rulebook in Polish.
+* [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna) - Become a police officer assigned to crack unsolved murder cases. Rulebook in Polish
 * [Herosworn](https://docs.google.com/document/d/1ttFFH8Ul7NlXhWw8vOr39YIx6FHcKuaC_Uueaf6f0B0/view) - Ironsworn for super heroes
 * [HyperCity](https://newmadras.itch.io/hypercity) - A cyberpunk hack of Ironsworn
 * [Investigation Hack by rsek](https://drive.google.com/drive/folders/1_tKqEn-iKDFyfzrNYgvVlzZuHOu1pUmc) - An investigation hack for Ironsworn
