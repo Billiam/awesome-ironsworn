@@ -30,6 +30,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Iron Journal](https://nboughton.uk/apps/ironsworn-campaign/) - Tools and references for running and journaling Ironsworn games
 * [IronWriter](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
 * [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
+* [Ironsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/ironsmith-expanded-oracles) - A FoundryVTT compendium of the Ironsmith oracles for Ironsworn.
 * [Ironsworn Character Creation Questions](https://www.drivethrurpg.com/product/392486/Ironsworn-Character-Creation-Questions) - Questions to help build NPC relationships
 * [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
 * [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
