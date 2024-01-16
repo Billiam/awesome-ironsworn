@@ -69,6 +69,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Bloodsworn](https://drive.google.com/file/d/104B93Fw6hpN4Cagr6TtyDvsh4VgHk-5F/view) - A tabletop roleplaying game in which you play the role of a vampire
 * [Cybersworn](https://the-homebrewster.itch.io/cybersworn) - Cyberpunk setting for Starforged
 * [Darkest Delves](https://jaderavens.itch.io/darkest-delves) - Torchlight and darkness for Ironsworn: Delve
+* [Darkest Derelicts](https://jaderavens.itch.io/darkest-derelicts) - Rules for Starforged, inspired by The Expanse and Alien
 * [Deck of Many Fortunes](https://www.drivethrurpg.com/product/382532) - Tarot deck offering blessings and malisons for Ironsworn and Starforged
 * [Delves & Denizens](https://delves-n-denizens.tumblr.com/) - Ironsworn addon focused on classical fantasy
 * [DungeonSworn](https://drive.google.com/drive/folders/1-2HeceIG9VnkPdOVaJKWcHq3zfA78X4l) - A dungeon delving adventure supplement
