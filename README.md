@@ -85,6 +85,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Iron Degenerates](https://drive.google.com/file/d/12iPtYAHlUJ_WMJIDqfTqgA2Sm44ayddV/view) - Bringing the Dungeon Degenerates setting to Ironsworn
 * [Iron in the Blood](https://www.drivethrurpg.com/product/309460/Iron-in-the-Blood) - Supplement in which in which you play vampires struggling through the epochs of time
 * [Iron Valley](https://mkirin.itch.io/iron-valley) - A cozy, simplified Ironsworn and Starforged hack focusing on small town life, fulfilling promises, and making the most of each day
+* [Iron Witcher](https://drive.google.com/drive/folders/1jPPTgfWyYyIhLPbqn8qwplWdr4UPhFy-) - Assets cards for The Witcher setting, in Portuguese
 * [Ironcrunch](https://www.patreon.com/posts/ironcrunch-35463893) - A crunchy Ironsworn supplement
 * [Ironmons](https://docs.google.com/document/d/1MPLxI_RdVdhqvvvAbjXAt1PnKJ11CMZg4V6NTT7BNx0/) - An Ironsworn Pokemon hack
 * [Ironsworn Flavor Packs](https://www.drivethrurpg.com/product/374949/Ironsmith-Flavor-Packs) - Japanese, South American and Norse setting card packs
