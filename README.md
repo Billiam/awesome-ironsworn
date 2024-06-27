@@ -73,6 +73,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Atomsworn](https://www.drivethrurpg.com/product/285005/Atomsworn-A-Post-Nuclear-Primer-Powered-by-Ironsworn-SRD) - Modern/sci-fi post-apocalyptic setting primer for Ironsworn
 * [Bladesworn](https://drive.google.com/file/d/1HUyXWTDGdLddZygFyPt-NHAhUVGobwxJ/view?usp=sharing) - A simplified Blades in the Dark ruleset for Ironsworn
 * [Bloodsworn](https://drive.google.com/file/d/104B93Fw6hpN4Cagr6TtyDvsh4VgHk-5F/view) - A tabletop roleplaying game in which you play the role of a vampire
+* [Cyberforged](https://the-homebrewster.itch.io/cyberforged) - Cyberpunk setting for Starforged (a successor to Cybersworn)
 * [Cybersworn](https://the-homebrewster.itch.io/cybersworn) - Cyberpunk setting for Starforged
 * [Darkest Delves](https://jaderavens.itch.io/darkest-delves) - Torchlight and darkness for Ironsworn: Delve
 * [Darkest Derelicts](https://jaderavens.itch.io/darkest-derelicts) - Rules for Starforged, inspired by The Expanse and Alien
