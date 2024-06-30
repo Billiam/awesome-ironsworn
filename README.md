@@ -54,7 +54,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System) - Character building card sets for Ironsworn
 * [DataForged](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
 * [DataSworn](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
-* [Iron Atlas: Map of the Ironlands](https://jaderavens.itch.io/iron-atlas-world-map) - Detailed, hi-res, hand-drawn map of the Ironlands
+* [Iron Atlas](https://itch.io/c/4524662/iron-atlas) - Explore the Ironlands with hand-drawn maps and oracles for weather, flora, & fauna
 * [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
 * [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
 * [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
