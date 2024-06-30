@@ -29,6 +29,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Fusake Play Aid](https://docs.google.com/document/d/191sfXfcrxars0CXgLNN54eCoQRsuPmyd5Qe-IS5Vlhg/view) - Microsoft Excel play-aid for solo Ironsworn play
 * [Iron Fellowship](https://iron-fellowship.scottbenton.dev/) - Synced character sheet and campaign manager for Ironsworn
 * [Iron Journal](https://nboughton.uk/apps/ironsworn-campaign/) - Tools and references for running and journaling Ironsworn games
+* [Iron Vault](https://github.com/iron-vault-plugin/iron-vault/) - Ironsworn/Starforged plugin for [Obsidian](https://obsidian.md/)
 * [IronWriter](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
 * [Ironsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/ironsmith-expanded-oracles) - A FoundryVTT compendium of the Ironsmith oracles for Ironsworn
 * [Ironsworn Character Creation Questions](https://www.drivethrurpg.com/product/392486/Ironsworn-Character-Creation-Questions) - Questions to help build NPC relationships
