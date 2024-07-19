@@ -2,7 +2,19 @@
 
 A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.com/) projects, tools and resources.
 
-## Official Content
+## Table of contents
+
+* [Official content](#official-content)
+* [Community](#community)
+* [Translations](#translations)
+* [Tools](#tools)
+* [Resources](#resources)
+* [Hacks and homebrew](#hacks-and-homebrew)
+* [Projects without URLs](#projects-without-urls)
+* [Game jams](#game-jams)
+* [Contribute](#contribute)
+
+## Official content
 
 * [Ironsworn](https://www.ironswornrpg.com/) - A tabletop RPG of perilous quests
 * [Ironsworn: Delve](https://shawn-tomkin.itch.io/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying game taking your quests to the deepest, darkest reaches of the Ironlands
