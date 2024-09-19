@@ -72,6 +72,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
 * [Minimalist Starforged Character Sheet](https://mendercap.itch.io/minimalist-starforged-character-sheet) - Simple character sheet for Starforged and Sundered Isles
 * [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1) - Adventure starters for Ironsworn
+* [Rhoam's Oracle Decks](https://rhoam.itch.io/) - Ironsworn and weather oracles in card format, in English and French
 * [Starforged Half-Page Worksheets](https://drive.google.com/file/d/1WYVxnzkRElXK9ho4W3P8oDaycblYEkck/view) - Half-page versions of the character, sector, progress, and connection worksheets
 * [Starforged Moves Starter](https://akavel.itch.io/starforged-moves-starter) - Cheatsheet of the most important moves in Starforged, aimed especially at new players
 * [Starforged Notebook](https://evil-wayne.itch.io/starforged-notebook) - All-in-one campaign notebook for Starforged
