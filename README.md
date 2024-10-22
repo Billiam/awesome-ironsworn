@@ -146,6 +146,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Under Contract](https://docs.google.com/document/d/1K1Cr1F1MABw8h-Hm-YL7DH4V9VLmq2Ezn9PEcOsuw-o/) - A cyberpunk hack for Ironsworn
 * [Vaults & Vows](https://ludicpen.itch.io/vaults-and-vows) - Classic fantasy roleplaying supplement
 * [Vigilance](https://maxb.fm/vigilance) - Espionage and deceit in a 1950s wizarding world setting, an Ironsworn conversion
+* [The 'Verse](https://jaderavens.itch.io/starforged-the-verse) - Firefly setting kit for Starforged
 * [Voidforged](https://kerys.itch.io/voidforged) - A sci-fi horror supplement for Starforged
 * [Winsome](https://elstiko.itch.io/winsome) - Stripped-down, setting-less hack of Ironsworn
 * [Your Legends of Iron](https://anarisis.itch.io/patreon-papers-021) - Zelda-themed truths for Ironsworn
