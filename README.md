@@ -66,6 +66,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 * [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System) - Character building card sets for Ironsworn
 * [DataForged](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
 * [DataSworn](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+* [Forge Codex](https://www.drivethrurpg.com/en/product/490797/forge-codex-001) - Modular supplement with locations, characters, and encounters for Starforged
 * [Iron Atlas](https://itch.io/c/4524662/iron-atlas) - Explore the Ironlands with hand-drawn maps and oracles for weather, flora, & fauna
 * [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
 * [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
