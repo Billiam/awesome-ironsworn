@@ -115,6 +115,7 @@ made by you on those sites when using these links_
 * [Iron Witcher](https://drive.google.com/drive/folders/1jPPTgfWyYyIhLPbqn8qwplWdr4UPhFy-) - Assets cards for The Witcher setting, in Portuguese
 * [Ironcrunch](https://www.patreon.com/posts/ironcrunch-35463893) - A crunchy Ironsworn supplement
 * [Ironmons](https://docs.google.com/document/d/1MPLxI_RdVdhqvvvAbjXAt1PnKJ11CMZg4V6NTT7BNx0/) - An Ironsworn Pokemon hack
+* [Ironspheres](https://neonpico.itch.io/ironspheres) - A magical system for the IronSworn RPG that is inspired by the Mage: The Ascension game system.
 * [Ironsworn Flavor Packs](https://www.drivethrurpg.com/product/374949/Ironsmith-Flavor-Packs?affiliate_id=844973) - Japanese, South American and Norse setting card packs
 * [Ironsworn Foes & Fights](https://drive.google.com/drive/folders/1tB_Hyw_b1GEtTV5MRugL-YmNP74NfJUp) - An Ironsworn hack adding more mechanical context to fights
 * [Ironsworn Nemesis](https://gceh.itch.io/ironsworn-nemesis) - Generate nemeses when defeated, a hack for Ironsworn and Starforged 
