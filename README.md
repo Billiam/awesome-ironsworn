@@ -89,6 +89,7 @@ made by you on those sites when using these links_
 
 ## Hacks and homebrew
 
+* [Ancient Wonders](https://www.drivethrurpg.com/en/product/505365/ancient-wonders?affiliate_id=844973) - Explore the galaxy with new mechanics and generators for solar systems, planets, alien megastructure and more
 * [Arcanum](https://www.drivethrurpg.com/product/368750/Arcanum-High-Magic-for-Ironsworn?affiliate_id=844973) - High magic for Ironsworn
 * [Atomsworn](https://www.drivethrurpg.com/product/285005/Atomsworn-A-Post-Nuclear-Primer-Powered-by-Ironsworn-SRD?affiliate_id=844973) - Modern/sci-fi post-apocalyptic setting primer for Ironsworn
 * [Bladesworn](https://drive.google.com/file/d/1HUyXWTDGdLddZygFyPt-NHAhUVGobwxJ/view?usp=sharing) - A simplified Blades in the Dark ruleset for Ironsworn
