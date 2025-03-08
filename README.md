@@ -181,6 +181,10 @@ made by you on those sites when using these links_
 * [Sea Beast](https://croakerrpgs.itch.io/sea-beast) - An adventure starter about a village plagued by a sea monster
 * [The Selkie Envoy](https://chihuahuazero.itch.io/the-selkie-envoy) - An adventure module for icy regions
 
+### Starforged
+
+* [Rise & Shiningstar](https://www.gatling.xyz/rise-and-shiningstar/) - Find out what happened to the settlement Shiningstar
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
