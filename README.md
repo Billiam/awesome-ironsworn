@@ -183,6 +183,7 @@ made by you on those sites when using these links_
 
 ### Starforged
 
+* [The Ferrum Mysteries](https://croakerrpgs.itch.io/the-ferrum-mysteries) - Explore the mystery behind the iron pillars
 * [Rise & Shiningstar](https://www.gatling.xyz/rise-and-shiningstar/) - Find out what happened to the settlement Shiningstar
 
 ## Contribute
