@@ -15,6 +15,7 @@ made by you on those sites when using these links_
 * [Hacks and homebrew](#hacks-and-homebrew)
 * [Projects without URLs](#projects-without-urls)
 * [Game jams](#game-jams)
+* [Adventure starters and scenarios](#adventure-starters-and-scenarios)
 * [Contribute](#contribute)
 
 ## Official content
@@ -76,7 +77,6 @@ made by you on those sites when using these links_
 * [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith?affiliate_id=844973) - Supplemental oracles, assets, locations, vows and more
 * [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
 * [Minimalist Starforged Character Sheet](https://mendercap.itch.io/minimalist-starforged-character-sheet) - Simple character sheet for Starforged and Sundered Isles
-* [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1?affiliate_id=844973) - Adventure starters for Ironsworn
 * [Rhoam's Oracle Decks](https://rhoam.itch.io/) - Ironsworn and weather oracles in card format, in English and French
 * [Starforged Half-Page Worksheets](https://drive.google.com/file/d/1WYVxnzkRElXK9ho4W3P8oDaycblYEkck/view) - Half-page versions of the character, sector, progress, and connection worksheets
 * [Starforged Moves Starter](https://akavel.itch.io/starforged-moves-starter) - Cheatsheet of the most important moves in Starforged, aimed especially at new players
@@ -171,6 +171,21 @@ made by you on those sites when using these links_
 * [Ironsworn Jam 1](https://itch.io/jam/ironsworn-jam-1/entries)
 * [Starforged 2022 Jam](https://itch.io/jam/starforged-2022-jam/entries) 
 * [Starforged 2023 Jam](https://itch.io/jam/starforged-2023-jam/entries)
+
+## Adventure starters and scenarios
+
+### Ironsworn
+
+* [Escape](https://drakonspyre.itch.io/escape-a-starter-adventure-for-ironsworn) - Escape the dungeon
+* [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1?affiliate_id=844973) - Various adventure starters inspired by Dungeon World campaign fronts
+* [Sea Beast](https://croakerrpgs.itch.io/sea-beast) - An adventure starter about a village plagued by a sea monster
+* [The Selkie Envoy](https://chihuahuazero.itch.io/the-selkie-envoy) - An adventure module for icy regions
+
+### Starforged
+
+* [Adventures in the Forge](https://drakonspyre.itch.io/adventures-in-the-forge) - A collection of quest starters
+* [The Ferrum Mysteries](https://croakerrpgs.itch.io/the-ferrum-mysteries) - Explore the mystery behind the iron pillars
+* [Rise & Shiningstar](https://www.gatling.xyz/rise-and-shiningstar/) - Find out what happened to the settlement Shiningstar
 
 ## Contribute
 
