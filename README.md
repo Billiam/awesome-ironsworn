@@ -177,6 +177,7 @@ made by you on those sites when using these links_
 ### Ironsworn
 
 * [Escape](https://drakonspyre.itch.io/escape-a-starter-adventure-for-ironsworn) - Escape the dungeon
+* [Hadley's Beast](https://drakonspyre.itch.io/hadleys-beast) - Take on the role of investigator and monster hunter as the village of Hadley's Grove is beset by a terrible horror
 * [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1?affiliate_id=844973) - Various adventure starters inspired by Dungeon World campaign fronts
 * [Sea Beast](https://croakerrpgs.itch.io/sea-beast) - An adventure starter about a village plagued by a sea monster
 * [The Selkie Envoy](https://chihuahuazero.itch.io/the-selkie-envoy) - An adventure module for icy regions
