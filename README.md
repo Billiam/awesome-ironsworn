@@ -176,6 +176,7 @@ made by you on those sites when using these links_
 
 ### Ironsworn
 
+* [Cargoth: Ruinous Edition](https://croakerrpgs.itch.io/cargoth-ruinous-edition) - A lost city, a great power, riches to be made and an ancient curse.  Cargoth has many perils and opportunities for an enterprising Ironsworn traveller
 * [Escape](https://drakonspyre.itch.io/escape-a-starter-adventure-for-ironsworn) - Escape the dungeon
 * [Hadley's Beast](https://drakonspyre.itch.io/hadleys-beast) - Take on the role of investigator and monster hunter as the village of Hadley's Grove is beset by a terrible horror
 * [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1?affiliate_id=844973) - Various adventure starters inspired by Dungeon World campaign fronts
