@@ -108,6 +108,7 @@ made by you on those sites when using these links_
 * [FurSworn](https://notofthisworld.itch.io/fursworn) - Anthropomorphic animal supplement
 * [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna?affiliate_id=844973) - Become a police officer assigned to crack unsolved murder cases. Rulebook in Polish
 * [Herosworn](https://docs.google.com/document/d/1ttFFH8Ul7NlXhWw8vOr39YIx6FHcKuaC_Uueaf6f0B0/view) - Ironsworn for super heroes
+* [Hogsworn](https://arkh.itch.io/hogsworn) - Ironsworn hack to play as a student at Hogwarts
 * [HyperCity](https://newmadras.itch.io/hypercity) - A cyberpunk hack of Ironsworn
 * [Investigation Hack by rsek](https://drive.google.com/drive/folders/1_tKqEn-iKDFyfzrNYgvVlzZuHOu1pUmc) - An investigation hack for Ironsworn
 * [Iron Degenerates](https://drive.google.com/file/d/12iPtYAHlUJ_WMJIDqfTqgA2Sm44ayddV/view) - Bringing the Dungeon Degenerates setting to Ironsworn
