@@ -20,9 +20,11 @@ made by you on those sites when using these links_
 
 ## Official content
 
-* [Ironsworn](https://www.ironswornrpg.com/) - A tabletop RPG of perilous quests
-* [Ironsworn: Delve](https://shawn-tomkin.itch.io/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying game taking your quests to the deepest, darkest reaches of the Ironlands
-* [Ironsworn: Starforged](https://www.ironswornrpg.com/product-ironsworn-starforged) -  The sci-fi evolution of the award-winning tabletop roleplaying game
+* [Ironsworn](https://tomkinpress.com/pages/ironsworn) - A tabletop RPG of perilous quests
+* [Ironsworn: Delve](https://tomkinpress.com/pages/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying game taking your quests to the deepest, darkest reaches of the Ironlands
+* [Lodestar](https://tomkinpress.com/collections/all-products/products/ironsworn-lodestar-expanded-reference-guide) - Reference guide for Ironsworn and Ironsworn: Delve
+* [Ironsworn: Starforged](https://tomkinpress.com/pages/ironsworn-starforged) -  The sci-fi evolution of the award-winning tabletop roleplaying game
+* [Sundered Isles](https://tomkinpress.com/pages/sundered-isles) - Supplement for Ironsworn: Starforged with guidelines, options, and tools for exploring a world of fantasy seafaring adventure
 
 ## Community
 
