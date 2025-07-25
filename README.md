@@ -35,10 +35,14 @@ made by you on those sites when using these links_
 
 ### Ironsworn
 
-* [French by Thomas Pereira](http://ironsworn.pbta.fr/) - Ironsworn rulebook and references in French
-* [German from System Matters](https://www.system-matters.de/produkt-kategorie/ironsworn/) - Ironsworn rulebook and assets in German
-* [Portuguese by Rodrigo Marini](https://drive.google.com/drive/folders/1X_tA19udvRFT8wsLBT5sWZAce5ttQ7kc) - Ironsworn SRD and play materials in Portuguese
-* [Spanish by Samuel Rondón](https://www.patreon.com/posts/ironsworn-in-34784503) - Ironsworn play materials in Spanish
+* 🇫🇷 [French by Thomas Pereira](http://ironsworn.pbta.fr/) - Ironsworn rulebook and references in French
+* 🇩🇪 [German from System Matters](https://www.system-matters.de/produkt-kategorie/ironsworn/) - Ironsworn rulebook and assets in German
+* 🇵🇹 [Portuguese by Rodrigo Marini](https://drive.google.com/drive/folders/1X_tA19udvRFT8wsLBT5sWZAce5ttQ7kc) - Ironsworn SRD and play materials in Portuguese
+* 🇪🇸 [Spanish by Samuel Rondón](https://www.patreon.com/posts/ironsworn-in-34784503) - Ironsworn play materials in Spanish
+
+### Starforged
+
+* 🇵🇱 [Polish (Core Oracles only) by Mateusz Czapliński](https://akavel.itch.io/starforged-pl-wyrocznie) - the Core Oracles of Ironsworn: Starforged in Polish
 
 ## Tools
 
