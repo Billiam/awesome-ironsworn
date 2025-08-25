@@ -177,6 +177,7 @@ made by you on those sites when using these links_
 * [Ironsworn Jam 1](https://itch.io/jam/ironsworn-jam-1/entries)
 * [Starforged 2022 Jam](https://itch.io/jam/starforged-2022-jam/entries) 
 * [Starforged 2023 Jam](https://itch.io/jam/starforged-2023-jam/entries)
+* [Starforged: Ancient Connections Jam](https://itch.io/jam/starforged-ancient-connections/entries)
 
 ## Adventure starters and scenarios
 
