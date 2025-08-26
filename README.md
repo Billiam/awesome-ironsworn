@@ -41,6 +41,10 @@ made by you on those sites when using these links_
 * [Spanish by Samuel Rondón](https://www.patreon.com/posts/ironsworn-in-34784503) - Ironsworn play materials in Spanish
 * [Ukrainian by Dense Forest Camp](https://dense-forest-camp.itch.io/zalizna-prysiaha-playkit) - Ironsworn play materials in Ukrainian
 
+### Starforged
+
+* [Polish (Core Oracles only) by Mateusz Czapliński](https://akavel.itch.io/starforged-pl-wyrocznie) - the Core Oracles of Ironsworn: Starforged in Polish
+
 ## Tools
 
 * [Asset Printouts](https://jaderavens.itch.io/ironsworn-asset-printouts) - Spreadsheet utility for printing off assets for Ironsworn, Starforged, and Sundered Isles
