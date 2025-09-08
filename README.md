@@ -63,7 +63,6 @@ made by you on those sites when using these links_
 * [Ironsworn for Role](https://app.playrole.com/sheet-templates/bbc0c65a-ironsworn-starforged/save) - Ironsworn character sheet for Role
 * [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
 * [Ironsworn Numbers Spreadsheet](https://www.dropbox.com/s/m16aazqk3t7ashd/Ironsworn%20-%20Public%20iPad%20v%200-7.numbers?dl=0) - Spreadsheet for Ironsworn solo play
-* [Ironsworn Starforged Move Cards and Their Oracles](https://lancelol.itch.io/starforged-move-cards) - PDFs with all 52 Starforged moves, for printing on 56 double-sided, 63x88mm cards
 * [isscrolls](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
 * [Pocketforge](https://rockpaperstory.com/pocketforge) - Ironsworn & Starforged companion app
 * [Starforged Asset Workbench](https://starforged-asset-workbench.vercel.app) - Tool for creating custom assets with Starforged's aesthetic
@@ -85,6 +84,7 @@ made by you on those sites when using these links_
 * [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
 * [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith?affiliate_id=844973) - Supplemental oracles, assets, locations, vows and more
 * [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
+* [Ironsworn Starforged Move Cards and Their Oracles](https://lancelol.itch.io/starforged-move-cards) - PDFs with all 52 Starforged moves, for printing on 56 double-sided, 63x88mm cards
 * [Lodestone](https://jaderavens.itch.io/lodestone) - Fillable story sheet oracle for Ironsworn campaigns
 * [Minimalist Starforged Character Sheet](https://mendercap.itch.io/minimalist-starforged-character-sheet) - Simple character sheet for Starforged and Sundered Isles
 * [Rhoam's Oracle Decks](https://rhoam.itch.io/) - Ironsworn and weather oracles in card format, in English and French
