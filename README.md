@@ -84,7 +84,7 @@ made by you on those sites when using these links_
 * [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
 * [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith?affiliate_id=844973) - Supplemental oracles, assets, locations, vows and more
 * [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
-* [Ironsworn Pocket Refs](https://notofthisworld.itch.io/ironsworn-pocket-refs) - Pocket-sized reference of Ironsworn Moves & more
+* [Ironsworn Pocket Refs](https://notofthisworld.itch.io/ironsworn-pocket-refs) - Pocket-sized reference of Ironsworn Moves
 * [Lodestone](https://jaderavens.itch.io/lodestone) - Fillable story sheet oracle for Ironsworn campaigns
 * [Minimalist Starforged Character Sheet](https://mendercap.itch.io/minimalist-starforged-character-sheet) - Simple character sheet for Starforged and Sundered Isles
 * [Rhoam's Oracle Decks](https://rhoam.itch.io/) - Ironsworn and weather oracles in card format, in English and French
