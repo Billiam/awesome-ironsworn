@@ -140,6 +140,7 @@ made by you on those sites when using these links_
 * [Justice Sworn](https://sandypuggames.itch.io/justice-sworn) -  Ironsworn in a side scrolling beat-em-up setting
 * [Knight Frame](https://seraguith.itch.io/knight-frame) - Add high-speed humanoid mech battles to your Starforged campaign
 * [Kybersworn](https://drive.google.com/drive/folders/1bnhf7ha5IOuDgiCYl2JOyzyVDum2qPDx) - A Star Wars-themed supplement for Ironsworn
+* [Legacy Iron](https://www.drivethrurpg.com/en/product/534886/legacy-iron-starforged-asset-pack?affiliate_id=844973) - Asset pack for Starforge, based on the original Ironsworn assets
 * [Mistsworn](https://docs.google.com/document/d/1dTLl2rLMmJ0MQfs2BOKu_WxEWEJ6gpQQf1jaSyMK-pY/) - A City of Mist / Ironsworn hybrid hack
 * [Modern Domains for Ironsworn by Stephanie M](https://drive.google.com/file/d/13KBv58Pq836vWLwDOK9qGYcCK8asK-O8/view) - Modern domain oracles
 * [MÖRKSWORN](https://chaoclypse.itch.io/morksworn) - Conversion rules for MÖRK BORG magic, weapons and enemies to Ironsworn
