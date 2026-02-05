@@ -134,7 +134,6 @@ made by you on those sites when using these links_
 * [Ironsworn Flavor Packs](https://www.drivethrurpg.com/product/374949/Ironsmith-Flavor-Packs?affiliate_id=844973) - Japanese, South American and Norse setting card packs
 * [Ironsworn Foes & Fights](https://drive.google.com/drive/folders/1tB_Hyw_b1GEtTV5MRugL-YmNP74NfJUp) - An Ironsworn hack adding more mechanical context to fights
 * [Ironsworn Nemesis](https://gceh.itch.io/ironsworn-nemesis) - Generate nemeses when defeated, a hack for Ironsworn and Starforged 
-* [Ironsworn Passions](https://docs.google.com/document/d/1ytKHeNLHOIE8JvL3-TUyIu_pDdP2oS69HbwKNxQ4DuA/view) - Character desires and prejudices
 * [Ironsworn Winterhall](https://drive.google.com/file/d/160Ki8oVab0yZdlPUwHWROKIe8ILaTzNd/view) - Put down roots in the Ironlands
 * [Ironsworn: Badlands](https://kstetson.itch.io/ironsworn-badlands) - Western setting supplement
 * [Ironsworn: Reign](https://www.drivethrurpg.com/product/419256/Ironsworn-Reign?affiliate_id=844973) - Settlement mechanics for Ironsworn
