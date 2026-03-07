@@ -96,6 +96,7 @@ made by you on those sites when using these links_
 * [Starforged Moves Starter](https://akavel.itch.io/starforged-moves-starter) - Cheatsheet of the most important moves in Starforged, aimed especially at new players
 * [Starforged Notebook](https://evil-wayne.itch.io/starforged-notebook) - All-in-one campaign notebook for Starforged
 * [Starforged Player Move Cards](https://drive.google.com/drive/folders/1P4cDrnGzTrNpNrZFh-3oL2VB-f7pS4U4) - All Starforged moves (except the Session moves) in standard "poker" card size
+* [Starforged Progress Cards](https://jeremyteeter.itch.io/ironsworn-starforged-progress-cards) - Printable progress tracking cards for Starforged in standard "poker" card size
 * [Starsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/417619/Starsmith-Expanded-Oracles?affiliate_id=844973) - Supplemental oracles for Starforged
 * [Starswoosh](https://www.drivethrurpg.com/en/product/443900/Starswoosh-An-Ironsworn-Starforged-Quick-Reference-For-Your-eReader?affiliate_id=844973) - Starforged quick reference for e-readers
 * [Tarot Sworn Sheet](https://nightjargames.itch.io/tarot-sworn-sheet) - Tarot-themed character sheet for Ironsworn
