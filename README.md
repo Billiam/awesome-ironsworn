@@ -72,7 +72,7 @@ made by you on those sites when using these links_
 * [Starforged Sectors Discord Bot](https://github.com/Ferretsroq/Starforged-Sectors) - Display, create, and explore sectors in Discord
 * [Starforged Numbers Spreadsheet](https://www.dropbox.com/s/ge40xrazw0c9ng1/Starforged%20Public%20v2.5.numbers?dl=0) - Spreadsheet for Starforged solo play
 * [Starsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starsmith-expanded-oracles) - A FoundryVTT compendium of the Starsmith oracles for the Ironsworn: Starforged system
-* [Sticky Starforged](https://jaderavens.itch.io/sticky-starforged) - Templates that let you print progress tracks, clocks, and more directly onto Sticky Notes
+* [Sticky Starforged](https://jaderavens.itch.io/sticky-starforged) - Print Starforged progress tracks, clocks, and more directly onto sticky notes
 * [TheOracle](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
 
 ## Resources
