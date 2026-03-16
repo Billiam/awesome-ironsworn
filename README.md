@@ -77,6 +77,7 @@ made by you on those sites when using these links_
 ## Resources
 
 * [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System?affiliate_id=844973) - Character building card sets for Ironsworn
+* [Condensed Truths](https://jaderavens.itch.io/condensed-truths) - Single-page truths worksheets for Ironsworn, Starforged & Sundered Isles
 * [DataForged](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
 * [DataSworn](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 * [Eidolon Flight Manual](https://jaderavens.itch.io/eidolon-flight-manual) - Comprehensive play aid and sector maps for drift pilots in the Forge
