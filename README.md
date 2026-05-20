@@ -66,6 +66,7 @@ made by you on those sites when using these links_
 * [isscrolls](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
 * [Pocketforge](https://rockpaperstory.com/pocketforge) - Ironsworn & Starforged companion app
 * [SectorCrucible](https://lucatabone.com/sector-crucible/) - Starforged universe procedural generator
+* [Sector Forge](https://sector-forge.linkon.click/) - Procedural sector generator for Ironsworn: Starforged
 * [Starforged Asset Workbench](https://starforged-asset-workbench.vercel.app) - Tool for creating custom assets with Starforged's aesthetic
 * [Starforged Crew Sheet](https://jaderavens.itch.io/starforged-crew-sheet) - Interactive playkit for group/solo play in Google Sheets
 * [Starforged Custom Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starforged-custom-oracles) - A FoundryVTT compendium of the fan-created oracles for the Ironsworn: Starforged system
